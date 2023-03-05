@@ -8,7 +8,7 @@ title | Understanding TypeScript
 author | Maximilian Schwarzmüller
 
 ## Progress boxes
-:green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: 
+:green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: 
 
 ## Curriculum list
 
@@ -206,100 +206,100 @@ author | Maximilian Schwarzmüller
 
 
 
-  - [ ] Module Introduction
+  - [x] Module Introduction :green_circle:
 
 
-  - [ ] What are Classes?
+  - [x] What are Classes? :green_circle:
 
 
-  - [ ] Creating a First Class
+  - [x] Creating a First Class :green_circle:
 
 
-  - [ ] Compiling to JavaScript
+  - [x] Compiling to JavaScript :green_circle:
 
 
-  - [ ] Constructor Functions &amp; The &quot;this&quot; Keyword
+  - [x] Constructor Functions &amp; The &quot;this&quot; Keyword :green_circle:
 
 
-  - [ ] &quot;private&quot; and &quot;public&quot; Access Modifiers
+  - [x] &quot;private&quot; and &quot;public&quot; Access Modifiers :green_circle:
 
 
-  - [ ] Shorthand Initialization
+  - [x] Shorthand Initialization :green_circle:
 
 
-  - [ ] &quot;readonly&quot; Properties
+  - [x] &quot;readonly&quot; Properties :green_circle:
 
 
-  - [ ] Class Basics
+  - [x] Class Basics :green_circle:
 
 
-  - [ ] Inheritance
+  - [x] Inheritance :green_circle:
 
 
-  - [ ] Overriding Properties &amp; The &quot;protected&quot; Modifier
+  - [x] Overriding Properties &amp; The &quot;protected&quot; Modifier :green_circle:
 
 
-  - [ ] Getters &amp; Setters
+  - [x] Getters &amp; Setters :green_circle:
 
 
-  - [ ] Static Methods &amp; Properties
+  - [x] Static Methods &amp; Properties :green_circle:
 
 
-  - [ ] Abstract Classes
+  - [x] Abstract Classes :green_circle:
 
 
-  - [ ] Singletons &amp; Private Constructors
+  - [x] Singletons &amp; Private Constructors :green_circle:
 
 
-  - [ ] Classes - A Summary
+  - [x] Classes - A Summary :green_circle:
 
 
-  - [ ] Classes
+  - [x] Classes :green_circle:
 
 
-  - [ ] A First Interface
+  - [x] A First Interface :green_circle:
 
 
-  - [ ] Using Interfaces with Classes
+  - [x] Using Interfaces with Classes :green_circle:
 
 
-  - [ ] Why Interfaces?
+  - [x] Why Interfaces? :green_circle:
 
 
-  - [ ] Readonly Interface Properties
+  - [x] Readonly Interface Properties :green_circle:
 
 
-  - [ ] Extending Interfaces
+  - [x] Extending Interfaces :green_circle:
 
 
-  - [ ] Interfaces as Function Types
+  - [x] Interfaces as Function Types :green_circle:
 
 
-  - [ ] Optional Parameters &amp; Properties
+  - [x] Optional Parameters &amp; Properties :green_circle:
 
 
-  - [ ] Compiling Interfaces to JavaScript
+  - [x] Compiling Interfaces to JavaScript :green_circle:
 
 
-  - [ ] Interfaces
+  - [x] Interfaces :green_circle:
 
 
-  - [ ] Wrap Up
+  - [x] Wrap Up :green_circle:
 
 
-  - [ ] Useful Resources &amp; Links
+  - [x] Useful Resources &amp; Links :green_circle:
 * **Advanced Types**
 
 
 
 
-  - [ ] Module Introduction
+  - [x] Module Introduction :green_circle:
 
 
-  - [ ] Intersection Types
+  - [x] Intersection Types :green_circle:
 
 
-  - [ ] More on Type Guards
+  - [x] More on Type Guards :green_circle:
 
 
   - [ ] Discriminated Unions
