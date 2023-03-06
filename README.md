@@ -14,7 +14,7 @@ The personal learning statistics shown below were committed automatically using 
 ## :yellow_circle: Pending courses
 | course name | progress | details | %bar |
 | :---------- | :------: | :-----: | :---------: |
-| <img align="left" src="https://img-b.udemycdn.com/course/125_H/947098_02ec_2.jpg">  _`947098`_ : **Understanding TypeScript** <br> _by Maximilian Schwarzmüller_ | `105/206` | [click here](https://github.com/smlkdev/udemy-stats/tree/master/understanding-typescript__947098&#x2F;README.md) | ![](https://geps.dev/progress/51) |
+| <img align="left" src="https://img-b.udemycdn.com/course/125_H/947098_02ec_2.jpg">  _`947098`_ : **Understanding TypeScript** <br> _by Maximilian Schwarzmüller_ | `111/206` | [click here](https://github.com/smlkdev/udemy-stats/tree/master/understanding-typescript__947098&#x2F;README.md) | ![](https://geps.dev/progress/54) |
 
 ## :red_circle: Not yet started
 | course name | progress | details | %bar |
