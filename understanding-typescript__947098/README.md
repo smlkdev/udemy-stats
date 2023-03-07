@@ -8,7 +8,7 @@ title | Understanding TypeScript
 author | Maximilian Schwarzmüller
 
 ## Progress boxes
-:green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: 
+:green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: 
 
 ## Curriculum list
 
@@ -416,106 +416,106 @@ author | Maximilian Schwarzmüller
   - [x] Wrap Up :green_circle:
 
 
-  - [ ] Useful Resources &amp; Links
+  - [x] Useful Resources &amp; Links :green_circle:
 * **Practice Time! Let&#39;s build a Drag &amp; Drop Project**
 
 
 
 
-  - [ ] Module Introduction
+  - [x] Module Introduction :green_circle:
 
 
-  - [ ] Getting Started
+  - [x] Getting Started :green_circle:
 
 
-  - [ ] DOM Element Selection &amp; OOP Rendering
+  - [x] DOM Element Selection &amp; OOP Rendering :green_circle:
 
 
-  - [ ] Interacting with DOM Elements
+  - [x] Interacting with DOM Elements :green_circle:
 
 
-  - [ ] Creating &amp; Using an &quot;Autobind&quot; Decorator
+  - [x] Creating &amp; Using an &quot;Autobind&quot; Decorator :green_circle:
 
 
-  - [ ] Fetching User Input
+  - [x] Fetching User Input :green_circle:
 
 
-  - [ ] Creating a Re-Usable Validation Functionality
+  - [x] Creating a Re-Usable Validation Functionality :green_circle:
 
 
-  - [ ] Rendering Project Lists
+  - [x] Rendering Project Lists :green_circle:
 
 
-  - [ ] Managing Application State with Singletons
+  - [x] Managing Application State with Singletons :green_circle:
 
 
-  - [ ] More Classes &amp; Custom Types
+  - [x] More Classes &amp; Custom Types :green_circle:
 
 
-  - [ ] Filtering Projects with Enums
+  - [x] Filtering Projects with Enums :green_circle:
 
 
-  - [ ] Adding Inheritance &amp; Generics
+  - [x] Adding Inheritance &amp; Generics :green_circle:
 
 
-  - [ ] Rendering Project Items with a Class
+  - [x] Rendering Project Items with a Class :green_circle:
 
 
-  - [ ] Using a Getter
+  - [x] Using a Getter :green_circle:
 
 
-  - [ ] Utilizing Interfaces to Implement Drag &amp; Drop
+  - [x] Utilizing Interfaces to Implement Drag &amp; Drop :green_circle:
 
 
-  - [ ] Drag Events &amp; Reflecting the Current State in the UI
+  - [x] Drag Events &amp; Reflecting the Current State in the UI :green_circle:
 
 
-  - [ ] Adding a Droppable Area
+  - [x] Adding a Droppable Area :green_circle:
 
 
-  - [ ] Finishing Drag &amp; Drop
+  - [x] Finishing Drag &amp; Drop :green_circle:
 
 
-  - [ ] Wrap Up
+  - [x] Wrap Up :green_circle:
 
 
-  - [ ] Useful Resources &amp; Links
+  - [x] Useful Resources &amp; Links :green_circle:
 * **Modules &amp; Namespaces**
 
 
 
 
-  - [ ] Module Introduction
+  - [x] Module Introduction :green_circle:
 
 
-  - [ ] Writing Module Code - Your Options
+  - [x] Writing Module Code - Your Options :green_circle:
 
 
-  - [ ] Working with Namespaces
+  - [x] Working with Namespaces :green_circle:
 
 
-  - [ ] Organizing Files &amp; Folders
+  - [x] Organizing Files &amp; Folders :green_circle:
 
 
-  - [ ] A Problem with Namespace Imports
+  - [x] A Problem with Namespace Imports :green_circle:
 
 
-  - [ ] Important: Use Chrome or Firefox
+  - [x] Important: Use Chrome or Firefox :green_circle:
 
 
-  - [ ] Using ES Modules
+  - [x] Using ES Modules :green_circle:
 
 
-  - [ ] Understanding various Import &amp; Export Syntaxes
+  - [x] Understanding various Import &amp; Export Syntaxes :green_circle:
 
 
-  - [ ] How Does Code In Modules Execute?
+  - [x] How Does Code In Modules Execute? :green_circle:
 
 
-  - [ ] Wrap Up
+  - [x] Wrap Up :green_circle:
 
 
-  - [ ] Useful Resources &amp; Links
+  - [x] Useful Resources &amp; Links :green_circle:
 * **Using Webpack with TypeScript**
 
 
