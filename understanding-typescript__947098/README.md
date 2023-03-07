@@ -8,7 +8,7 @@ title | Understanding TypeScript
 author | Maximilian Schwarzmüller
 
 ## Progress boxes
-:green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: 
+:green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: 
 
 ## Curriculum list
 
@@ -527,154 +527,154 @@ author | Maximilian Schwarzmüller
   - [x] What is Webpack &amp; Why do we need it? :green_circle:
 
 
-  - [ ] Installing Webpack &amp; Important Dependencies
+  - [x] Installing Webpack &amp; Important Dependencies :green_circle:
 
 
-  - [ ] Adding Entry &amp; Output Configuration
+  - [x] Adding Entry &amp; Output Configuration :green_circle:
 
 
-  - [ ] Adding TypeScript Support with the ts-loader Package
+  - [x] Adding TypeScript Support with the ts-loader Package :green_circle:
 
 
-  - [ ] Adjust Webpack Config
+  - [x] Adjust Webpack Config :green_circle:
 
 
-  - [ ] Finishing the Setup &amp; Adding webpack-dev-server
+  - [x] Finishing the Setup &amp; Adding webpack-dev-server :green_circle:
 
 
-  - [ ] Adding a Production Workflow
+  - [x] Adding a Production Workflow :green_circle:
 
 
-  - [ ] Wrap Up
+  - [x] Wrap Up :green_circle:
 
 
-  - [ ] Useful Resources &amp; Links
+  - [x] Useful Resources &amp; Links :green_circle:
 * **3rd Party Libraries &amp; TypeScript**
 
 
 
 
-  - [ ] Module Introduction
+  - [x] Module Introduction :green_circle:
 
 
-  - [ ] Using JavaScript (!) Libraries with TypeScript
+  - [x] Using JavaScript (!) Libraries with TypeScript :green_circle:
 
 
-  - [ ] Using &quot;declare&quot; as a &quot;Last Resort&quot;
+  - [x] Using &quot;declare&quot; as a &quot;Last Resort&quot; :green_circle:
 
 
-  - [ ] No Types Needed: class-transformer
+  - [x] No Types Needed: class-transformer :green_circle:
 
 
-  - [ ] TypeScript-embracing: class-validator
+  - [x] TypeScript-embracing: class-validator :green_circle:
 
 
-  - [ ] Wrap Up
+  - [x] Wrap Up :green_circle:
 
 
-  - [ ] Useful Resources &amp; Links
+  - [x] Useful Resources &amp; Links :green_circle:
 * **Time to Practice! Let&#39;s build a &quot;Select &amp; Share a Place&quot; App (incl. Google Maps)**
 
 
 
 
-  - [ ] Module Introduction
+  - [x] Module Introduction :green_circle:
 
 
-  - [ ] Project Setup
+  - [x] Project Setup :green_circle:
 
 
-  - [ ] Getting User Input
+  - [x] Getting User Input :green_circle:
 
 
-  - [ ] Setting Up a Google API Key
+  - [x] Setting Up a Google API Key :green_circle:
 
 
-  - [ ] Using Axios to Fetch Coordinates for an Entered Address
+  - [x] Using Axios to Fetch Coordinates for an Entered Address :green_circle:
 
 
-  - [ ] Rendering a Map with Google Maps (incl. Types!)
+  - [x] Rendering a Map with Google Maps (incl. Types!) :green_circle:
 
 
-  - [ ] Working with Maps without a Credit Card
+  - [x] Working with Maps without a Credit Card :green_circle:
 
 
-  - [ ] Useful Resources &amp; Links
+  - [x] Useful Resources &amp; Links :green_circle:
 * **React.js &amp; TypeScript**
 
 
 
 
-  - [ ] Module Introduction
+  - [x] Module Introduction :green_circle:
 
 
-  - [ ] Setting Up a React + TypeScript Project
+  - [x] Setting Up a React + TypeScript Project :green_circle:
 
 
-  - [ ] How Do React + TypeScript Work Together?
+  - [x] How Do React + TypeScript Work Together? :green_circle:
 
 
-  - [ ] Working with Props and Types for Props
+  - [x] Working with Props and Types for Props :green_circle:
 
 
-  - [ ] Getting User Input with &quot;refs&quot;
+  - [x] Getting User Input with &quot;refs&quot; :green_circle:
 
 
-  - [ ] Cross-Component Communication
+  - [x] Cross-Component Communication :green_circle:
 
 
-  - [ ] Working with State &amp; Types
+  - [x] Working with State &amp; Types :green_circle:
 
 
-  - [ ] Managing State Better
+  - [x] Managing State Better :green_circle:
 
 
-  - [ ] More Props &amp; State Work
+  - [x] More Props &amp; State Work :green_circle:
 
 
-  - [ ] Adding Styling
+  - [x] Adding Styling :green_circle:
 
 
-  - [ ] Types for other React Features (e.g. Redux or Routing)
+  - [x] Types for other React Features (e.g. Redux or Routing) :green_circle:
 
 
-  - [ ] Wrap Up
+  - [x] Wrap Up :green_circle:
 
 
-  - [ ] Useful Resources &amp; Links
+  - [x] Useful Resources &amp; Links :green_circle:
 * **Node.js + Express &amp; TypeScript**
 
 
 
 
-  - [ ] Module Introduction
+  - [x] Module Introduction :green_circle:
 
 
-  - [ ] Executing TypeScript Code with Node.js
+  - [x] Executing TypeScript Code with Node.js :green_circle:
 
 
-  - [ ] Setting up a Project
+  - [x] Setting up a Project :green_circle:
 
 
-  - [ ] Finished Setup &amp; Working with Types (in Node + Express Apps)
+  - [x] Finished Setup &amp; Working with Types (in Node + Express Apps) :green_circle:
 
 
-  - [ ] Adding Middleware &amp; Types
+  - [x] Adding Middleware &amp; Types :green_circle:
 
 
-  - [ ] Working with Controllers &amp; Parsing Request Bodies
+  - [x] Working with Controllers &amp; Parsing Request Bodies :green_circle:
 
 
-  - [ ] More CRUD Operations
+  - [x] More CRUD Operations :green_circle:
 
 
-  - [ ] Wrap Up
+  - [x] Wrap Up :green_circle:
 
 
-  - [ ] Useful Resources &amp; Links
+  - [x] Useful Resources &amp; Links :green_circle:
 * **Course Roundup**
 
 
 
 
-  - [ ] Thanks for being part of the course!
+  - [x] Thanks for being part of the course! :green_circle:

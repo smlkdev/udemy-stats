@@ -2,19 +2,19 @@
 
 The personal learning statistics shown below were committed automatically using [udemy-progress-monitor](https://github.com/smlkdev/udemy-progress-monitor)
 
-- :green_circle: `Finished courses` **`(1)`**
-- :yellow_circle: `Pending courses` **`(1)`**
+- :green_circle: `Finished courses` **`(2)`**
+- :yellow_circle: `Pending courses` **`(0)`**
 - :red_circle: `Not yet started` **`(3)`**
 
 ## :green_circle: Finished courses
 | course name | progress | details | %bar |
 | :---------- | :------: | :-----: | :---------: |
+| <img align="left" src="https://img-c.udemycdn.com/course/125_H/947098_02ec_2.jpg">  _`947098`_ : **Understanding TypeScript** <br> _by Maximilian Schwarzmüller_ | `206/206` | [click here](https://github.com/smlkdev/udemy-stats/tree/master/understanding-typescript__947098&#x2F;README.md) | ![](https://geps.dev/progress/100) |
 | <img align="left" src="https://img-c.udemycdn.com/course/125_H/2508942_11d3_3.jpg">  _`2508942`_ : **JavaScript - The Complete Guide 2023 (Beginner + Advanced)** <br> _by Maximilian Schwarzmüller_ | `643/653` | [click here](https://github.com/smlkdev/udemy-stats/tree/master/javascript-the-complete-guide-2020-beginner-advanced__2508942&#x2F;README.md) | ![](https://geps.dev/progress/98) |
 
 ## :yellow_circle: Pending courses
 | course name | progress | details | %bar |
 | :---------- | :------: | :-----: | :---------: |
-| <img align="left" src="https://img-c.udemycdn.com/course/125_H/947098_02ec_2.jpg">  _`947098`_ : **Understanding TypeScript** <br> _by Maximilian Schwarzmüller_ | `160/206` | [click here](https://github.com/smlkdev/udemy-stats/tree/master/understanding-typescript__947098&#x2F;README.md) | ![](https://geps.dev/progress/78) |
 
 ## :red_circle: Not yet started
 | course name | progress | details | %bar |
