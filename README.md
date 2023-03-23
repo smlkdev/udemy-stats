@@ -20,6 +20,6 @@ The personal learning statistics shown below were committed automatically using 
 ## :red_circle: Not yet started
 | course name | progress | details | %bar |
 | :---------- | :------: | :-----: | :---------: |
-| <img align="left" src="https://img-b.udemycdn.com/course/125_H/705264_caa9_13.jpg">  _`705264`_ : **Modern React with Redux [2023 Update]** <br> _by Stephen Grider_ | `0/434` | [click here](https://github.com/smlkdev/udemy-stats/tree/master/react-redux__705264&#x2F;README.md) | ![](https://geps.dev/progress/0) |
+| <img align="left" src="https://img-b.udemycdn.com/course/125_H/705264_caa9_13.jpg">  _`705264`_ : **Modern React with Redux [2023 Update]** <br> _by Stephen Grider_ | `0/433` | [click here](https://github.com/smlkdev/udemy-stats/tree/master/react-redux__705264&#x2F;README.md) | ![](https://geps.dev/progress/0) |
 | <img align="left" src="https://img-c.udemycdn.com/course/125_H/1906852_93c6_2.jpg">  _`1906852`_ : **MongoDB - The Complete Developer&#39;s Guide 2023** <br> _by Maximilian Schwarzmüller_ | `0/266` | [click here](https://github.com/smlkdev/udemy-stats/tree/master/mongodb-the-complete-developers-guide__1906852&#x2F;README.md) | ![](https://geps.dev/progress/0) |
 
