@@ -15,7 +15,7 @@ The personal learning statistics shown below were committed automatically using 
 ## :yellow_circle: Pending courses
 | course name | progress | details | %bar |
 | :---------- | :------: | :-----: | :---------: |
-| <img align="left" src="https://img-c.udemycdn.com/course/125_H/1879018_95b6_3.jpg">  _`1879018`_ : **NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)** <br> _by Maximilian Schwarzmüller_ | `229/543` | [click here](https://github.com/smlkdev/udemy-stats/tree/master/nodejs-the-complete-guide__1879018&#x2F;README.md) | ![](https://geps.dev/progress/42) |
+| <img align="left" src="https://img-b.udemycdn.com/course/125_H/1879018_95b6_3.jpg">  _`1879018`_ : **NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)** <br> _by Maximilian Schwarzmüller_ | `232/543` | [click here](https://github.com/smlkdev/udemy-stats/tree/master/nodejs-the-complete-guide__1879018&#x2F;README.md) | ![](https://geps.dev/progress/43) |
 
 ## :red_circle: Not yet started
 | course name | progress | details | %bar |
