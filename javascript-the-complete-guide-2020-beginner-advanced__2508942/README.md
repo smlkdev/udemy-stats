@@ -407,10 +407,10 @@ author | Maximilian Schwarzmüller
   - [x] Throwing Custom Errors :green_circle:
 
 
-  - [x] Exercise: Throwing &amp; Handling Errors :green_circle:
-
-
   - [x] Working with &quot;try-catch&quot; to Catch &amp; Handle Errors :green_circle:
+
+
+  - [x] Exercise: Throwing &amp; Handling Errors :green_circle:
 
 
   - [x] Error Handling :green_circle:
