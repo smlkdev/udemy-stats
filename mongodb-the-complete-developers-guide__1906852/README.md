@@ -8,7 +8,7 @@ title | MongoDB - The Complete Developer&#39;s Guide 2023
 author | Maximilian Schwarzmüller
 
 ## Progress boxes
-:green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: 
+:green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: 
 
 ## Curriculum list
 
@@ -275,118 +275,118 @@ author | Maximilian Schwarzmüller
 
 
 
-  - [ ] Module Introduction
+  - [x] Module Introduction :green_circle:
 
 
-  - [ ] Methods, Filters &amp; Operators
+  - [x] Methods, Filters &amp; Operators :green_circle:
 
 
-  - [ ] Operators - An Overview
+  - [x] Operators - An Overview :green_circle:
 
 
-  - [ ] Query Selectors &amp; Projection Operators
+  - [x] Query Selectors &amp; Projection Operators :green_circle:
 
 
-  - [ ] Understanding &quot;findOne()&quot; &amp; &quot;find()&quot;
+  - [x] Understanding &quot;findOne()&quot; &amp; &quot;find()&quot; :green_circle:
 
 
-  - [ ] Working with Comparison Operators
+  - [x] Working with Comparison Operators :green_circle:
 
 
-  - [ ] Querying Embedded Fields &amp; Arrays
+  - [x] Querying Embedded Fields &amp; Arrays :green_circle:
 
 
-  - [ ] Understanding &quot;$in&quot; and &quot;$nin&quot;
+  - [x] Understanding &quot;$in&quot; and &quot;$nin&quot; :green_circle:
 
 
-  - [ ] &quot;$or&quot; and &quot;$nor&quot;
+  - [x] &quot;$or&quot; and &quot;$nor&quot; :green_circle:
 
 
-  - [ ] Understanding the &quot;$and&quot; Operator
+  - [x] Understanding the &quot;$and&quot; Operator :green_circle:
 
 
-  - [ ] Using &quot;$not&quot;
+  - [x] Using &quot;$not&quot; :green_circle:
 
 
-  - [ ] Diving Into Element Operators
+  - [x] Diving Into Element Operators :green_circle:
 
 
-  - [ ] Working with &quot;$type&quot;
+  - [x] Working with &quot;$type&quot; :green_circle:
 
 
-  - [ ] Understanding Evaluation Operators - &quot;$regex&quot;
+  - [x] Understanding Evaluation Operators - &quot;$regex&quot; :green_circle:
 
 
-  - [ ] Understanding Evaluation Operators - &quot;$expr&quot;
+  - [x] Understanding Evaluation Operators - &quot;$expr&quot; :green_circle:
 
 
   - [ ] Time to Practice - Read Operations
 
 
-  - [ ] Diving Deeper Into Querying Arrays
+  - [x] Diving Deeper Into Querying Arrays :green_circle:
 
 
-  - [ ] Using Array Query Selectors - &quot;$size&quot;
+  - [x] Using Array Query Selectors - &quot;$size&quot; :green_circle:
 
 
-  - [ ] Using Array Query Selectors - &quot;$all&quot;
+  - [x] Using Array Query Selectors - &quot;$all&quot; :green_circle:
 
 
-  - [ ] Using Array Query Selectors - &quot;$elemMatch&quot;
+  - [x] Using Array Query Selectors - &quot;$elemMatch&quot; :green_circle:
 
 
   - [ ] Time to Practice - Array Query Selectors
 
 
-  - [ ] Understanding Cursors
+  - [x] Understanding Cursors :green_circle:
 
 
-  - [ ] Applying Cursors
+  - [x] Applying Cursors :green_circle:
 
 
-  - [ ] Sorting Cursor Results
+  - [x] Sorting Cursor Results :green_circle:
 
 
-  - [ ] Skipping &amp; Limiting Cursor Results
+  - [x] Skipping &amp; Limiting Cursor Results :green_circle:
 
 
-  - [ ] Using Projection to Shape our Results
+  - [x] Using Projection to Shape our Results :green_circle:
 
 
-  - [ ] Using Projection in Arrays
+  - [x] Using Projection in Arrays :green_circle:
 
 
-  - [ ] Understanding &quot;$slice&quot;
+  - [x] Understanding &quot;$slice&quot; :green_circle:
 
 
-  - [ ] Useful Resources &amp; Links
+  - [x] Useful Resources &amp; Links :green_circle:
 * **Update Operations**
 
 
 
 
-  - [ ] Module Introduction
+  - [x] Module Introduction :green_circle:
 
 
-  - [ ] Updating Fields with &quot;updateOne()&quot;, &quot;updateMany()&quot; and &quot;$set&quot;
+  - [x] Updating Fields with &quot;updateOne()&quot;, &quot;updateMany()&quot; and &quot;$set&quot; :green_circle:
 
 
-  - [ ] Updating Multiple Fields with &quot;$set&quot;
+  - [x] Updating Multiple Fields with &quot;$set&quot; :green_circle:
 
 
-  - [ ] Incrementing &amp; Decrementing Values
+  - [x] Incrementing &amp; Decrementing Values :green_circle:
 
 
-  - [ ] Using &quot;$min&quot;, &quot;$max&quot; and &quot;$mul&quot;
+  - [x] Using &quot;$min&quot;, &quot;$max&quot; and &quot;$mul&quot; :green_circle:
 
 
-  - [ ] Getting Rid of Fields
+  - [x] Getting Rid of Fields :green_circle:
 
 
-  - [ ] Renaming Fields
+  - [x] Renaming Fields :green_circle:
 
 
-  - [ ] Understanding &quot;upsert()&quot;
+  - [x] Understanding &quot;upsert()&quot; :green_circle:
 
 
   - [ ] Time to Practice - Update Operations
