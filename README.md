@@ -16,7 +16,7 @@ The personal learning statistics shown below were committed automatically using 
 ## :yellow_circle: Pending courses
 | course name | progress | details | %bar |
 | :---------- | :------: | :-----: | :---------: |
-| <img align="left" src="https://img-c.udemycdn.com/course/125_H/1906852_93c6_2.jpg">  _`1906852`_ : **MongoDB - The Complete Developer&#39;s Guide 2023** <br> _by Maximilian Schwarzmüller_ | `141/266` | [click here](https://github.com/smlkdev/udemy-stats/tree/master/mongodb-the-complete-developers-guide__1906852&#x2F;README.md) | ![](https://geps.dev/progress/53) |
+| <img align="left" src="https://img-c.udemycdn.com/course/125_H/1906852_93c6_2.jpg">  _`1906852`_ : **MongoDB - The Complete Developer&#39;s Guide 2023** <br> _by Maximilian Schwarzmüller_ | `144/266` | [click here](https://github.com/smlkdev/udemy-stats/tree/master/mongodb-the-complete-developers-guide__1906852&#x2F;README.md) | ![](https://geps.dev/progress/54) |
 
 ## :red_circle: Not yet started
 | course name | progress | details | %bar |
