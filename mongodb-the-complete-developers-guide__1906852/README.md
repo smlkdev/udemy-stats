@@ -8,7 +8,7 @@ title | MongoDB - The Complete Developer&#39;s Guide 2023
 author | Maximilian Schwarzmüller
 
 ## Progress boxes
-:green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: 
+:green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: 
 
 ## Curriculum list
 
@@ -704,190 +704,190 @@ author | Maximilian Schwarzmüller
 
 
 
-  - [ ] Module Introduction
+  - [x] Module Introduction :green_circle:
 
 
-  - [ ] What Influences Performance?
+  - [x] What Influences Performance? :green_circle:
 
 
-  - [ ] Understanding Capped Collections
+  - [x] Understanding Capped Collections :green_circle:
 
 
-  - [ ] What are Replica Sets?
+  - [x] What are Replica Sets? :green_circle:
 
 
-  - [ ] Understanding Sharding
+  - [x] Understanding Sharding :green_circle:
 
 
-  - [ ] Deploying a MongoDB Server
+  - [x] Deploying a MongoDB Server :green_circle:
 
 
-  - [ ] Using MongoDB Atlas
+  - [x] Using MongoDB Atlas :green_circle:
 
 
-  - [ ] Backups &amp; Setting Alerts in MongoDB Atlas
+  - [x] Backups &amp; Setting Alerts in MongoDB Atlas :green_circle:
 
 
-  - [ ] Connecting to our Cluster
+  - [x] Connecting to our Cluster :green_circle:
 
 
-  - [ ] Wrap Up
+  - [x] Wrap Up :green_circle:
 
 
-  - [ ] Useful Resources &amp; Links
+  - [x] Useful Resources &amp; Links :green_circle:
 * **Transactions**
 
 
 
 
-  - [ ] Module Introduction
+  - [x] Module Introduction :green_circle:
 
 
-  - [ ] What are Transactions?
+  - [x] What are Transactions? :green_circle:
 
 
-  - [ ] A Typical Usecase
+  - [x] A Typical Usecase :green_circle:
 
 
-  - [ ] How Does a Transaction Work?
+  - [x] How Does a Transaction Work? :green_circle:
 
 
-  - [ ] Useful Resources &amp; Links
+  - [x] Useful Resources &amp; Links :green_circle:
 * **From Shell to Driver**
 
 
 
 
-  - [ ] Module Introduction
+  - [x] Module Introduction :green_circle:
 
 
-  - [ ] Splitting Work Between the Driver &amp; the Shell
+  - [x] Splitting Work Between the Driver &amp; the Shell :green_circle:
 
 
-  - [ ] Preparing our Project
+  - [x] Preparing our Project :green_circle:
 
 
-  - [ ] Installing Visual Studio Code
+  - [x] Installing Visual Studio Code :green_circle:
 
 
-  - [ ] Installing the Node.js Driver
+  - [x] Installing the Node.js Driver :green_circle:
 
 
-  - [ ] Connecting Node.js &amp; the MongoDB Cluster
+  - [x] Connecting Node.js &amp; the MongoDB Cluster :green_circle:
 
 
-  - [ ] Storing Products in the Database
+  - [x] Storing Products in the Database :green_circle:
 
 
-  - [ ] Storing the Price as 128bit Decimal
+  - [x] Storing the Price as 128bit Decimal :green_circle:
 
 
-  - [ ] Fetching Data From the Database
+  - [x] Fetching Data From the Database :green_circle:
 
 
-  - [ ] Creating a More Realistic Setup
+  - [x] Creating a More Realistic Setup :green_circle:
 
 
-  - [ ] Getting a Single Product
+  - [x] Getting a Single Product :green_circle:
 
 
-  - [ ] Editing &amp; Deleting Products
+  - [x] Editing &amp; Deleting Products :green_circle:
 
 
-  - [ ] Implementing Pagination
+  - [x] Implementing Pagination :green_circle:
 
 
-  - [ ] Adding an Index
+  - [x] Adding an Index :green_circle:
 
 
-  - [ ] Signing Users Up
+  - [x] Signing Users Up :green_circle:
 
 
-  - [ ] Adding an Index to Make the Email Unique
+  - [x] Adding an Index to Make the Email Unique :green_circle:
 
 
-  - [ ] Adding User Sign In
+  - [x] Adding User Sign In :green_circle:
 
 
-  - [ ] Wrap Up
+  - [x] Wrap Up :green_circle:
 
 
-  - [ ] Useful Resources &amp; Links
+  - [x] Useful Resources &amp; Links :green_circle:
 * **Introducing Stitch**
 
 
 
 
-  - [ ] Module Introduction
+  - [x] Module Introduction :green_circle:
 
 
-  - [ ] Stitch &amp; MongoDB Realm
+  - [x] Stitch &amp; MongoDB Realm :green_circle:
 
 
-  - [ ] What is Stitch?
+  - [x] What is Stitch? :green_circle:
 
 
-  - [ ] Preparations
+  - [x] Preparations :green_circle:
 
 
-  - [ ] Start Using Stitch
+  - [x] Start Using Stitch :green_circle:
 
 
-  - [ ] Adding Stitch to our App &amp; Initializing It
+  - [x] Adding Stitch to our App &amp; Initializing It :green_circle:
 
 
-  - [ ] Adding Authentication
+  - [x] Adding Authentication :green_circle:
 
 
-  - [ ] Sending Data Access Rules
+  - [x] Sending Data Access Rules :green_circle:
 
 
-  - [ ] Fetching &amp; Converting Data
+  - [x] Fetching &amp; Converting Data :green_circle:
 
 
-  - [ ] Deleting Products
+  - [x] Deleting Products :green_circle:
 
 
-  - [ ] Finding a Single Product
+  - [x] Finding a Single Product :green_circle:
 
 
-  - [ ] Adding Products
+  - [x] Adding Products :green_circle:
 
 
-  - [ ] Updating Products
+  - [x] Updating Products :green_circle:
 
 
-  - [ ] Switching to User Email &amp; Password Authentication
+  - [x] Switching to User Email &amp; Password Authentication :green_circle:
 
 
-  - [ ] Adding User Sign Up &amp; Confirmation
+  - [x] Adding User Sign Up &amp; Confirmation :green_circle:
 
 
-  - [ ] Adding User Login
+  - [x] Adding User Login :green_circle:
 
 
-  - [ ] Rules &amp; Real Users
+  - [x] Rules &amp; Real Users :green_circle:
 
 
-  - [ ] The Current State of Authentication
+  - [x] The Current State of Authentication :green_circle:
 
 
-  - [ ] Functions &amp; Triggers
+  - [x] Functions &amp; Triggers :green_circle:
 
 
-  - [ ] Wrap Up
+  - [x] Wrap Up :green_circle:
 
 
-  - [ ] Useful Resources &amp; Links
+  - [x] Useful Resources &amp; Links :green_circle:
 * **Roundup**
 
 
 
 
-  - [ ] Course Roundup
+  - [x] Course Roundup :green_circle:
 
 
-  - [ ] Course Slides
+  - [x] Course Slides :green_circle:
 
 
-  - [ ] Bonus: More Content!
+  - [x] Bonus: More Content! :green_circle:
