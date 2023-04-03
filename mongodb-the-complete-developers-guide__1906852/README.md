@@ -8,7 +8,7 @@ title | MongoDB - The Complete Developer&#39;s Guide 2023
 author | Maximilian Schwarzmüller
 
 ## Progress boxes
-:green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: 
+:green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: 
 
 ## Curriculum list
 
@@ -509,196 +509,196 @@ author | Maximilian Schwarzmüller
 
 
 
-  - [ ] Module Introduction
+  - [x] Module Introduction :green_circle:
 
 
-  - [ ] Adding GeoJSON Data
+  - [x] Adding GeoJSON Data :green_circle:
 
 
-  - [ ] Running Geo Queries
+  - [x] Running Geo Queries :green_circle:
 
 
-  - [ ] Adding a Geospatial Index to Track the Distance
+  - [x] Adding a Geospatial Index to Track the Distance :green_circle:
 
 
-  - [ ] Adding Additional Locations
+  - [x] Adding Additional Locations :green_circle:
 
 
-  - [ ] Finding Places Inside a Certain Area
+  - [x] Finding Places Inside a Certain Area :green_circle:
 
 
-  - [ ] Finding Out If a User Is Inside a Specific Area
+  - [x] Finding Out If a User Is Inside a Specific Area :green_circle:
 
 
-  - [ ] Finding Places Within a Certain Radius
+  - [x] Finding Places Within a Certain Radius :green_circle:
 
 
   - [ ] Time to Practice - Geospatial Data
 
 
-  - [ ] Wrap Up
+  - [x] Wrap Up :green_circle:
 
 
-  - [ ] Useful Resources &amp; Links
+  - [x] Useful Resources &amp; Links :green_circle:
 * **Understanding the Aggregation Framework**
 
 
 
 
-  - [ ] Module Introduction
+  - [x] Module Introduction :green_circle:
 
 
-  - [ ] What is the Aggregation Framework?
+  - [x] What is the Aggregation Framework? :green_circle:
 
 
-  - [ ] Getting Started with the Aggregation Pipeline
+  - [x] Getting Started with the Aggregation Pipeline :green_circle:
 
 
-  - [ ] Using the Aggregation Framework
+  - [x] Using the Aggregation Framework :green_circle:
 
 
-  - [ ] Understanding the Group Stage
+  - [x] Understanding the Group Stage :green_circle:
 
 
-  - [ ] Diving Deeper Into the Group Stage
+  - [x] Diving Deeper Into the Group Stage :green_circle:
 
 
   - [ ] Time to Practice - The Aggregation Framework
 
 
-  - [ ] Working with $project
+  - [x] Working with $project :green_circle:
 
 
-  - [ ] Turning the Location Into a geoJSON Object
+  - [x] Turning the Location Into a geoJSON Object :green_circle:
 
 
-  - [ ] Transforming the Birthdate
+  - [x] Transforming the Birthdate :green_circle:
 
 
-  - [ ] Using Shortcuts for Transformations
+  - [x] Using Shortcuts for Transformations :green_circle:
 
 
-  - [ ] Understanding the $isoWeekYear Operator
+  - [x] Understanding the $isoWeekYear Operator :green_circle:
 
 
-  - [ ] $group vs $project
+  - [x] $group vs $project :green_circle:
 
 
-  - [ ] Pushing Elements Into Newly Created Arrays
+  - [x] Pushing Elements Into Newly Created Arrays :green_circle:
 
 
-  - [ ] Understanding the $unwind Stage
+  - [x] Understanding the $unwind Stage :green_circle:
 
 
-  - [ ] Eliminating Duplicate Values
+  - [x] Eliminating Duplicate Values :green_circle:
 
 
-  - [ ] Using Projection with Arrays
+  - [x] Using Projection with Arrays :green_circle:
 
 
-  - [ ] Getting the Length of an Array
+  - [x] Getting the Length of an Array :green_circle:
 
 
-  - [ ] Using the $filter Operator
+  - [x] Using the $filter Operator :green_circle:
 
 
-  - [ ] Applying Multiple Operations to our Array
+  - [x] Applying Multiple Operations to our Array :green_circle:
 
 
-  - [ ] Understanding $bucket
+  - [x] Understanding $bucket :green_circle:
 
 
-  - [ ] Diving Into Additional Stages
+  - [x] Diving Into Additional Stages :green_circle:
 
 
-  - [ ] How MongoDB Optimizes Your Aggregation Pipelines
+  - [x] How MongoDB Optimizes Your Aggregation Pipelines :green_circle:
 
 
-  - [ ] Writing Pipeline Results Into a New Collection
+  - [x] Writing Pipeline Results Into a New Collection :green_circle:
 
 
-  - [ ] Working with the $geoNear Stage
+  - [x] Working with the $geoNear Stage :green_circle:
 
 
-  - [ ] Wrap Up
+  - [x] Wrap Up :green_circle:
 
 
-  - [ ] Useful Resources &amp; Links
+  - [x] Useful Resources &amp; Links :green_circle:
 * **Working with Numeric Data**
 
 
 
 
-  - [ ] Module Introduction
+  - [x] Module Introduction :green_circle:
 
 
-  - [ ] Number Types - An Overview
+  - [x] Number Types - An Overview :green_circle:
 
 
-  - [ ] MongoDB Shell &amp; Data Types
+  - [x] MongoDB Shell &amp; Data Types :green_circle:
 
 
-  - [ ] Understanding Programming Language Defaults
+  - [x] Understanding Programming Language Defaults :green_circle:
 
 
-  - [ ] Working with int32
+  - [x] Working with int32 :green_circle:
 
 
-  - [ ] Working with int64
+  - [x] Working with int64 :green_circle:
 
 
-  - [ ] Doing Maths with Floats int32s &amp; int64s
+  - [x] Doing Maths with Floats int32s &amp; int64s :green_circle:
 
 
-  - [ ] What&#39;s Wrong with Normal Doubles?
+  - [x] What&#39;s Wrong with Normal Doubles? :green_circle:
 
 
-  - [ ] Working with Decimal 128bit
+  - [x] Working with Decimal 128bit :green_circle:
 
 
-  - [ ] Wrap Up
+  - [x] Wrap Up :green_circle:
 
 
-  - [ ] Useful Resources &amp; Links
+  - [x] Useful Resources &amp; Links :green_circle:
 * **MongoDB &amp; Security**
 
 
 
 
-  - [ ] Module Introduction
+  - [x] Module Introduction :green_circle:
 
 
-  - [ ] Understanding Role Based Access Control
+  - [x] Understanding Role Based Access Control :green_circle:
 
 
-  - [ ] Roles - Examples
+  - [x] Roles - Examples :green_circle:
 
 
-  - [ ] Creating a User
+  - [x] Creating a User :green_circle:
 
 
-  - [ ] Built-In Roles - An Overview
+  - [x] Built-In Roles - An Overview :green_circle:
 
 
-  - [ ] Assigning Roles to Users &amp; Databases
+  - [x] Assigning Roles to Users &amp; Databases :green_circle:
 
 
-  - [ ] Updating &amp; Extending Roles to Other Databases
+  - [x] Updating &amp; Extending Roles to Other Databases :green_circle:
 
 
   - [ ] Time to Practice - Security
 
 
-  - [ ] Adding SSL Transport Encryption
+  - [x] Adding SSL Transport Encryption :green_circle:
 
 
-  - [ ] Encryption at REST
+  - [x] Encryption at REST :green_circle:
 
 
-  - [ ] Wrap Up
+  - [x] Wrap Up :green_circle:
 
 
-  - [ ] Useful Resources &amp; Links
+  - [x] Useful Resources &amp; Links :green_circle:
 * **Performance, Fault Tolerancy &amp; Deployment**
 
 
