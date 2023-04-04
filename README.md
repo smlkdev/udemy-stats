@@ -3,8 +3,8 @@
 The personal learning statistics shown below were committed automatically using [udemy-progress-monitor](https://github.com/smlkdev/udemy-progress-monitor)
 
 - :green_circle: `Finished courses` **`(4)`**
-- :yellow_circle: `Pending courses` **`(0)`**
-- :red_circle: `Not yet started` **`(4)`**
+- :yellow_circle: `Pending courses` **`(1)`**
+- :red_circle: `Not yet started` **`(3)`**
 
 ## :green_circle: Finished courses
 | course name | progress | details | %bar |
@@ -17,6 +17,7 @@ The personal learning statistics shown below were committed automatically using 
 ## :yellow_circle: Pending courses
 | course name | progress | details | %bar |
 | :---------- | :------: | :-----: | :---------: |
+| <img align="left" src="https://img-c.udemycdn.com/course/125_H/3510096_5891.jpg">  _`3510096`_ : **Master NestJS 9 - Node.js Framework 2023** <br> _by Piotr Jura  45,000+ Enrollments_ | `2/123` | [click here](https://github.com/smlkdev/udemy-stats/tree/master/master-nestjs-the-javascript-nodejs-framework__3510096&#x2F;README.md) | ![](https://geps.dev/progress/2) |
 
 ## :red_circle: Not yet started
 | course name | progress | details | %bar |
@@ -24,5 +25,4 @@ The personal learning statistics shown below were committed automatically using 
 | <img align="left" src="https://img-b.udemycdn.com/course/125_H/705264_caa9_13.jpg">  _`705264`_ : **Modern React with Redux [2023 Update]** <br> _by Stephen Grider_ | `0/433` | [click here](https://github.com/smlkdev/udemy-stats/tree/master/react-redux__705264&#x2F;README.md) | ![](https://geps.dev/progress/0) |
 | <img align="left" src="https://img-b.udemycdn.com/course/125_H/1917546_682b_3.jpg">  _`1917546`_ : **Master the Coding Interview: Data Structures + Algorithms** <br> _by Andrei Neagoie_ | `0/265` | [click here](https://github.com/smlkdev/udemy-stats/tree/master/master-the-coding-interview-data-structures-algorithms__1917546&#x2F;README.md) | ![](https://geps.dev/progress/0) |
 | <img align="left" src="https://img-c.udemycdn.com/course/125_H/2417262_fea7_2.jpg">  _`2417262`_ : **RxJS 101** <br> _by Matthew Keener_ | `0/54` | [click here](https://github.com/smlkdev/udemy-stats/tree/master/rxjs-101-course__2417262&#x2F;README.md) | ![](https://geps.dev/progress/0) |
-| <img align="left" src="https://img-c.udemycdn.com/course/125_H/3510096_5891.jpg">  _`3510096`_ : **Master NestJS 9 - Node.js Framework 2023** <br> _by Piotr Jura  45,000+ Enrollments_ | `0/123` | [click here](https://github.com/smlkdev/udemy-stats/tree/master/master-nestjs-the-javascript-nodejs-framework__3510096&#x2F;README.md) | ![](https://geps.dev/progress/0) |
 
