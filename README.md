@@ -17,7 +17,7 @@ The personal learning statistics shown below were committed automatically using 
 ## :yellow_circle: Pending courses
 | course name | progress | details | %bar |
 | :---------- | :------: | :-----: | :---------: |
-| <img align="left" src="https://img-c.udemycdn.com/course/125_H/3510096_5891.jpg">  _`3510096`_ : **Master NestJS 9 - Node.js Framework 2023** <br> _by Piotr Jura  45,000+ Enrollments_ | `31/123` | [click here](https://github.com/smlkdev/udemy-stats/tree/master/master-nestjs-the-javascript-nodejs-framework__3510096&#x2F;README.md) | ![](https://geps.dev/progress/25) |
+| <img align="left" src="https://img-c.udemycdn.com/course/125_H/3510096_5891.jpg">  _`3510096`_ : **Master NestJS 9 - Node.js Framework 2023** <br> _by Piotr Jura  45,000+ Enrollments_ | `46/123` | [click here](https://github.com/smlkdev/udemy-stats/tree/master/master-nestjs-the-javascript-nodejs-framework__3510096&#x2F;README.md) | ![](https://geps.dev/progress/37) |
 
 ## :red_circle: Not yet started
 | course name | progress | details | %bar |

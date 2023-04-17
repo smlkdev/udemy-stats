@@ -8,7 +8,7 @@ title | Master NestJS 9 - Node.js Framework 2023
 author | Piotr Jura  45,000+ Enrollments
 
 ## Progress boxes
-:green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: 
+:green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: 
 
 ## Curriculum list
 
@@ -119,58 +119,58 @@ author | Piotr Jura  45,000+ Enrollments
   - [x] Repository Pattern :green_circle:
 
 
-  - [ ] TypeORM 3 UPGRADE GUIDE!
+  - [x] TypeORM 3 UPGRADE GUIDE! :green_circle:
 
 
-  - [ ] Repository in Practice
+  - [x] Repository in Practice :green_circle:
 
 
-  - [ ] Repository Querying Criteria and Options
+  - [x] Repository Querying Criteria and Options :green_circle:
 * **Data Validation**
 
 
 
 
-  - [ ] Data Validation - Section Introduction
+  - [x] Data Validation - Section Introduction :green_circle:
 
 
-  - [ ] Introduction to Pipes
+  - [x] Introduction to Pipes :green_circle:
 
 
-  - [ ] Input Validation
+  - [x] Input Validation :green_circle:
 
 
-  - [ ] Validation Groups and Options
+  - [x] Validation Groups and Options :green_circle:
 * **Modules, Providers, Dependency Injection**
 
 
 
 
-  - [ ] Modules, Providers, Dependency Injection - Section Introduction
+  - [x] Modules, Providers, Dependency Injection - Section Introduction :green_circle:
 
 
-  - [ ] Introduction to Modules, Providers and Dependency Injection
+  - [x] Introduction to Modules, Providers and Dependency Injection :green_circle:
 
 
-  - [ ] Creating a Custom Module
+  - [x] Creating a Custom Module :green_circle:
 
 
-  - [ ] Static Modules and Dynamic Modules
+  - [x] Static Modules and Dynamic Modules :green_circle:
 
 
-  - [ ] Standard &amp; Custom Providers
+  - [x] Standard &amp; Custom Providers :green_circle:
 * **Configuration, Logging, and Errors**
 
 
 
 
-  - [ ] Application Config and Environments
+  - [x] Application Config and Environments :green_circle:
 
 
-  - [ ] Custom Configuration Files and Options
+  - [x] Custom Configuration Files and Options :green_circle:
 
 
-  - [ ] Logging
+  - [x] Logging :green_circle:
 
 
   - [ ] Exception Filters
