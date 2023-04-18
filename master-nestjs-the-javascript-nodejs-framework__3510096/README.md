@@ -8,7 +8,7 @@ title | Master NestJS 9 - Node.js Framework 2023
 author | Piotr Jura  45,000+ Enrollments
 
 ## Progress boxes
-:green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :green_square: 
+:green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :green_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :green_square: 
 
 ## Curriculum list
 
@@ -215,49 +215,49 @@ author | Piotr Jura  45,000+ Enrollments
 
 
 
-  - [ ] Introduction to Authentication
+  - [x] Introduction to Authentication :green_circle:
 
 
-  - [ ] Local Passport Strategy
+  - [x] Local Passport Strategy :green_circle:
 
 
-  - [ ] Logging In - Passport Strategy with a Nest Guard
+  - [x] Logging In - Passport Strategy with a Nest Guard :green_circle:
 
 
-  - [ ] JWT - JSON Web Tokens Introduction
+  - [x] JWT - JSON Web Tokens Introduction :green_circle:
 
 
-  - [ ] JWT - Generating Token
+  - [x] JWT - Generating Token :green_circle:
 
 
-  - [ ] JWT - Strategy &amp; Guard - Authenticating with JWT Token
+  - [x] JWT - Strategy &amp; Guard - Authenticating with JWT Token :green_circle:
 
 
-  - [ ] Hashing Passwords with Bcrypt
+  - [x] Hashing Passwords with Bcrypt :green_circle:
 
 
-  - [ ] Custom CurrentUser Decorator
+  - [x] Custom CurrentUser Decorator :green_circle:
 
 
-  - [ ] User Registration
+  - [x] User Registration :green_circle:
 
 
-  - [ ] Only Authenticated Users Can Create Events
+  - [x] Only Authenticated Users Can Create Events :green_circle:
 
 
-  - [ ] Only The Owners Can Edit or Delete Events
+  - [x] Only The Owners Can Edit or Delete Events :green_circle:
 * **Data Serialization**
 
 
 
 
-  - [ ] Interceptors and Serialization
+  - [x] Interceptors and Serialization :green_circle:
 
 
-  - [ ] Serializing Data
+  - [x] Serializing Data :green_circle:
 
 
-  - [ ] Serializing Nested Objects
+  - [x] Serializing Nested Objects :green_circle:
 * **(Practical) Building Full Events API**
 
 
