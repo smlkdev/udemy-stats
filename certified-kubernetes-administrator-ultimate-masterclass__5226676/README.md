@@ -8,7 +8,7 @@ title | Certified Kubernetes Administrator Ultimate Masterclass 2023
 author | Deepak Dubey
 
 ## Progress boxes
-:white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: 
+:white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: 
 
 ## Curriculum list
 
@@ -104,13 +104,25 @@ author | Deepak Dubey
   - [ ] 11 ABSOLUTE ESSENTIAL VIM TIPS FOR CKA, CKAD &amp; CKS EXAM
 
 
-  - [ ] Secrets
+  - [ ] Kubernetes Secrets
 
 
   - [ ] ConfigMaps
 
 
-  - [ ] Deployments
+  - [ ] Kubernetes Deployments
+
+
+  - [ ] Kubernetes Memory CPU Resource Limits
+
+
+  - [ ] Readiness Probe
+
+
+  - [ ] Liveness Probe
+
+
+  - [ ] Kubernetes Probes
 * **Core Kubernetes Concepts - Theory**
 
 
