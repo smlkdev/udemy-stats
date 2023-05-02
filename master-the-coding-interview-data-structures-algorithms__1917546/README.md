@@ -23,7 +23,7 @@ author | Andrei Neagoie
   - [ ] Join Our Online Classroom!
 
 
-  - [ ] Exercise: Meet Your Classmates and Instructor
+  - [ ] Exercise: Meet Your Classmates &amp; Instructor
 
 
   - [ ] ZTM Resources
